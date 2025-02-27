@@ -8,4 +8,5 @@ Featured changes (compared to basic GNK-200 firmware)
 Wiring remains the same.
 
 Original blaster can be found here: https://www.printables.com/model/414900-gnk-200-dual-stage-brushless-solenoid-nerf-blaster
+
 Original MS-GNK code can be found here: https://www.printables.com/model/1131161-ms-gnk-dual-stage-brushless-solenoid-powered-nerf
