@@ -8,6 +8,11 @@ const int motorMid = 1600;  // Motor Medium speed  1600 = ~160fps
 const int motorMax = 1900;  // Motor Maximum speed 1900 = >200fps
 const int preRev = 1200;    // Motor Pre-rev speed
 
+//motor speeds for 3S, change values above if using 11.1V battery
+//const int motorMin = 1150; //~100fps
+//const int motorMid = 1475;  //~130fps
+//const int motorMax = 2000; //~200fps
+
 //solenoid stats here, optimised for neutron w/ cutdown retaliator stock spring on 4S
 //getting about 900 RPM on those settings
 int solenoidOn = 33;            // Solenoid  On Delay, default 33ms
